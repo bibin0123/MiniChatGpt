@@ -1,0 +1,38 @@
+# Python environment and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build and Distribution artifacts
+build/
+dist/
+*.egg-info/
+*.spec
+
+# IDE & Editor configs
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project logs, backups, & temporary files
+*.log
+backups/
+*.tmp
+*.bak
+scratch/

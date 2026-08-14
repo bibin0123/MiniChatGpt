@@ -1,0 +1,80 @@
+Knowledge Search Pro
+============================================================
+
+Title : Delete Database
+Category : SQL
+Keywords : delete database, drop database, remove database
+Tags : SQL, MySQL, DD
+
+DROP DATABASE database_name;
+------------------------------------------------------------
+
+Title : Create Database
+Category : SQL
+Keywords : create database, new database
+Tags : SQL, MySQL
+
+CREATE DATABASE database_name;
+------------------------------------------------------------
+
+Title : Show Databases
+Category : SQL
+Keywords : show database, list databases
+Tags : SQL, MySQL
+
+SHOW DATABASES;
+------------------------------------------------------------
+
+Title : Python Read Text File
+Category : Python
+Keywords : read txt, open file, python file
+Tags : Python, File
+
+with open('sample.txt', 'r', encoding='utf-8') as file:
+    text = file.read()
+print(text)
+------------------------------------------------------------
+
+Title : Delete Database
+Category : SQL
+Keywords : delete database, drop database, remove database
+Tags : SQL, MySQL, DD
+
+DROP DATABASE database_name;
+------------------------------------------------------------
+
+Title : Politics
+Category : General
+Keywords : Prime Minister
+Tags : India
+
+Naradra Modi
+------------------------------------------------------------
+
+Title : Setup and Configuration Git
+Category : General
+Keywords : Git Normal Configuration
+Tags : Git start
+
+git config --global user.name "Name": Sets your commit author name.
+git config --global user.email "email": Sets your commit author email.
+git init: Initializes a brand new local Git repository.
+git clone <url>: Clones an existing remote repository local
+------------------------------------------------------------
+
+Title : The Core Workflow Git
+Category : General
+Keywords : Git commands
+Tags : git commit, git add
+
+git status: Shows modified, staged, or untracked files.
+
+git add <file>: Stages a specific file for the next commit.
+
+git add .: Stages all modified and new files at once.
+
+git commit -m "message": Saves the staged snapshot to project history.
+
+git commit -am "message": Stages tracked files and commits them in one step.
+------------------------------------------------------------
+

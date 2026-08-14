@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "title": "Delete Database",
+        "category": "SQL",
+        "keywords": [
+            "delete database",
+            "drop database",
+            "remove database"
+        ],
+        "tags": [
+            "SQL",
+            "MySQL",
+            "DD"
+        ],
+        "answer": "DROP DATABASE database_name;"
+    },
+    {
+        "id": 2,
+        "title": "Create Database",
+        "category": "SQL",
+        "keywords": [
+            "create database",
+            "new database"
+        ],
+        "tags": [
+            "SQL",
+            "MySQL"
+        ],
+        "answer": "CREATE DATABASE database_name;"
+    },
+    {
+        "id": 3,
+        "title": "Show Databases",
+        "category": "SQL",
+        "keywords": [
+            "show database",
+            "list databases"
+        ],
+        "tags": [
+            "SQL",
+            "MySQL"
+        ],
+        "answer": "SHOW DATABASES;"
+    },
+    {
+        "id": 4,
+        "title": "Python Read Text File",
+        "category": "Python",
+        "keywords": [
+            "read txt",
+            "open file",
+            "python file"
+        ],
+        "tags": [
+            "Python",
+            "File"
+        ],
+        "answer": "with open('sample.txt', 'r', encoding='utf-8') as file:\n    text = file.read()\nprint(text)"
+    },
+    {
+        "title": "Delete Database",
+        "category": "SQL",
+        "keywords": [
+            "delete database",
+            "drop database",
+            "remove database"
+        ],
+        "tags": [
+            "SQL",
+            "MySQL",
+            "DD"
+        ],
+        "answer": "DROP DATABASE database_name;",
+        "id": 5
+    },
+    {
+        "title": "Politics",
+        "category": "General",
+        "keywords": [
+            "Prime Minister"
+        ],
+        "tags": [
+            "India"
+        ],
+        "answer": "Naradra Modi",
+        "id": 6
+    },
+    {
+        "id": 7,
+        "title": "Setup and Configuration Git",
+        "category": "General",
+        "keywords": [
+            "Git Normal Configuration"
+        ],
+        "tags": [
+            "Git start"
+        ],
+        "answer": "git config --global user.name \"Name\": Sets your commit author name.\ngit config --global user.email \"email\": Sets your commit author email.\ngit init: Initializes a brand new local Git repository.\ngit clone <url>: Clones an existing remote repository local"
+    },
+    {
+        "title": "The Core Workflow Git",
+        "category": "General",
+        "keywords": [
+            "Git commands"
+        ],
+        "tags": [
+            "git commit",
+            "git add"
+        ],
+        "answer": "git status: Shows modified, staged, or untracked files.\n\ngit add <file>: Stages a specific file for the next commit.\n\ngit add .: Stages all modified and new files at once.\n\ngit commit -m \"message\": Saves the staged snapshot to project history.\n\ngit commit -am \"message\": Stages tracked files and commits them in one step.",
+        "id": 8
+    }
+]

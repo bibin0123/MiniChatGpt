@@ -1,0 +1,12 @@
+
+
+
+{
+    "app_name": "Knowledge Search Pro",
+    "version": "1.0",
+    "theme": "light",
+    "admin_username": "admin",
+    "admin_password": "admin1",
+    "backup_on_save": true,
+    "max_backups": 1
+}

@@ -110,5 +110,63 @@
         ],
         "answer": "git status: Shows modified, staged, or untracked files.\n\ngit add <file>: Stages a specific file for the next commit.\n\ngit add .: Stages all modified and new files at once.\n\ngit commit -m \"message\": Saves the staged snapshot to project history.\n\ngit commit -am \"message\": Stages tracked files and commits them in one step.",
         "id": 8
+    },
+    {
+        "title": "Create The Gitignore Filenavigate",
+        "category": "Tkinter",
+        "keywords": [
+            "create",
+            "gitignore",
+            "filenavigate"
+        ],
+        "tags": [
+            "Windows",
+            "Git",
+            "JSON"
+        ],
+        "answer": "1. Create the .gitignore FileNavigate to your project's root folder in your terminal and create the file:Mac / Linux / Git Bash: touch .gitignoreWindows Command Prompt: type nul > .gitignoreAlternatively, create it manually via your code editor.2. Add Rules and PatternsOpen the file in a text editor and add the rules. Put every rule on a new line:Ignore a specific file: secret.jsonIgnore a whole folder: node_modules/Ignore all files of a specific type: *.log (uses a wildcard)Add an exception: !important.log (use an exclamation mark)Add comments: # This is a comment (use a hash symbol)Example file structure:text# Ignore local environment variables\n\n**.env**\n\n**Ignore dependency folders**\n\n**node_modules/**\n\n**venv/**\n\n**Ignore IDE specific setups**\n\n**.vscode/**\n\n**.DS_Store**\n\n**Ignore all logs except the production one**\n\n***.log**\n\n**!prod.log**\n\nUse code with caution.3. Save and Commit the FileThe .gitignore file itself must be tracked so everyone working on the project shares the same rules. Run these commands:bashgit add .gitignore\n\ngit commit -m \"Add gitignore to exclude temporary files\"\n\nUse code with caution.",
+        "id": 9
+    },
+    {
+        "title": "Cabinet Ministers kerala",
+        "category": "General",
+        "keywords": [
+            "key",
+            "cabinet",
+            "ministers"
+        ],
+        "tags": [],
+        "answer": "Key Cabinet Ministers & PortfoliosV. D. Satheesan: Chief Minister (also handles general administration and policy matters)Ramesh Chennithala: Minister for Home, Vigilance, Fire and Rescue Services, Prisons, and CoirSunny Joseph: Minister for Electricity, Environment, Parliamentary Affairs, and ANERTK. Muraleedharan: Minister for Health, Medical Education, Ayush, Food Safety, and DevaswomsV. E. Abdul Gafoor: Minister for Fisheries, Harbour Engineering, and Social JusticeMons Joseph: Minister for Irrigation, Ground Water, and Water Supply & SanitationAnoop Jacob: Minister for Food & Civil Supplies, Consumer Affairs, and Legal MetrologyShibu Baby John: Minister for Forests & Wildlife Protection, and Skill Development",
+        "id": 10
+    },
+    {
+        "title": "Key Cabinet Ministers Portfoliosv. D. Satheesan:",
+        "category": "General",
+        "keywords": [
+            "key",
+            "cabinet",
+            "ministers",
+            "portfoliosv",
+            "satheesan"
+        ],
+        "tags": [],
+        "answer": "Key Cabinet Ministers & PortfoliosV. D. Satheesan: Chief Minister (also handles general administration and policy matters)Ramesh Chennithala: Minister for Home, Vigilance, Fire and Rescue Services, Prisons, and CoirSunny Joseph: Minister for Electricity, Environment, Parliamentary Affairs, and ANERTK. Muraleedharan: Minister for Health, Medical Education, Ayush, Food Safety, and DevaswomsV. E. Abdul Gafoor: Minister for Fisheries, Harbour Engineering, and Social JusticeMons Joseph: Minister for Irrigation, Ground Water, and Water Supply & SanitationAnoop Jacob: Minister for Food & Civil Supplies, Consumer Affairs, and Legal MetrologyShibu Baby John: Minister for Forests & Wildlife Protection, and Skill Development",
+        "id": 11
+    },
+    {
+        "title": "United States",
+        "category": "General",
+        "keywords": [
+            "united",
+            "states",
+            "article",
+            "talk",
+            "read"
+        ],
+        "tags": [
+            "API"
+        ],
+        "answer": "**United States**\n\n**Article**\n\n**Talk**\n\n**Read**\n\n**View source**\n\n**View history**\n\n**Appearance hide**\n\n**Text**\n\n**Small**\n\n**Standard**\n\n**Large**\n\n**Width**\n\n**Wide**\n\n**Color**\n\n**Automatic**\n\n**Light**\n\n**Dark**\n\n**Coordinates: 40°N 100°W**\n\n**Extended-protected article**\n\n**From Wikipedia, the free encyclopedia**\n\nSeveral terms redirect here. For other uses, see United States (disambiguation), America (disambiguation), US (disambiguation), USA (disambiguation), The United States of America (disambiguation), and The States (disambiguation).\n\n**United States of America**\n\n**Flag**\n\n**Coat of arms**\n\n**Motto: \"In God We Trust\"[1]**\n\n**Other traditional mottos:[2]**\n\n**Anthem: \"The Star-Spangled Banner\"[3]**\n\n**Duration: 1 minute and 19 seconds.1:19**\n\nOrthographic map of the U.S. in North America\n\n**Show globe (states and D.C. only)**\n\nShow the U.S., its territories, and the Compacts of Free Association states\n\nShow territories with boundaries of U.S. exclusive economic zone\n\n**Show all**\n\n**Capital\tWashington, D.C.[a]**\n\n**38°53′N 77°1′W**\n\n**Largest city\tNew York City[b]**\n\n**40°43′N 74°0′W**\n\n**Official languages\tEnglish[c]**\n\n**Ethnic groups (2020)[8][9][10]**\n\n**By race:**\n\n**6% White**\n\n**4% Black**\n\n**6% Asian**\n\n1.1% Native American\n\n**2% Pacific Islander**\n\n**2% two or more races**\n\n**4% other**\n\n**By origin:**\n\n**3% non-Hispanic or Latino**\n\n**7% Hispanic or Latino**\n\n**Religion (2025)[11]**\n\n**65% Christianity**\n\n**32% Protestantism**\n\n**20% Catholicism**\n\n**12% other Christian**\n\n**1% Mormonism**\n\n**24% unaffiliated**\n\n**2% Judaism**\n\n**6% other religion**\n\n**3% unanswered**\n\n**Demonym\tAmerican[12][d]**\n\n**Government\tFederal presidential republic**\n\n**• President**\n\n**Donald Trump**\n\n**• Vice President**\n\n**JD Vance**\n\n**• House Speaker**\n\n**Mike Johnson**\n\n**• Chief Justice**\n\n**John Roberts**\n\n**Legislature\tCongress**\n\n**• Upper house**\n\n**Senate**\n\n**• Lower house**\n\n**House of Representatives**\n\n**Independence from Great Britain**\n\n**• Declaration**\n\nJuly 4, 1776;\n\n**years ago**\n\n**• Confederation**\n\n**March 1, 1781**\n\n**• Recognition**\n\n**September 3, 1783**\n\n**• Constitution**\n\n**March 4, 1789**\n\n**Area**\n\n**• Total area**\n\n**3,796,742 sq mi (9,833,520 km2)[13][e] (3rd)**\n\n**• Water (%)**\n\n**0[16] (2010)**\n\n**• Land area**\n\n**3,531,905 sq mi (9,147,590 km2) (3rd)**\n\n**Population**\n\n**• 2025 estimate**\n\n**Neutral increase 341,784,857[17]**\n\n**• 2020 census**\n\n**Neutral increase 331,449,281[18][f] (3rd)**\n\n**• Density**\n\n**8/sq mi (37.4/km2) (180th)**\n\n**GDP (PPP)\t2026 estimate**\n\n**• Total**\n\n**Increase $32.384 trillion[19][g] (2nd)**\n\n**• Per capita**\n\n**Increase $94,430[19] (10th)**\n\n**GDP (nominal)\t2026 estimate**\n\n**Increase $32.384 trillion[19] (1st)**\n\n**Increase $94,430[19] (8th)**\n\n**Gini (2024)\tNegative increase 41.8[20][h]**\n\n**medium inequality**\n\n**HDI (2023)\tIncrease 0.938[21]**\n\n**very high (17th)**\n\n**Currency\tU.S. dollar ($) (USD)**\n\n**Time zone\tUTC−4 to −12, +10, +11**\n\n**• Summer (DST)**\n\n**UTC−4 to −10[i]**\n\n**Date format\tmm/dd/yyyy[j]**\n\n**Calling code\t+1**\n\n**ISO 3166 code\tUS**\n\n**Internet TLD\t.us[22]**\n\nThe United States of America (USA), also known as the United States (U.S.) or America, is a country primarily located in North America. It is a federal republic consisting of 50 states and a federal capital district, Washington, D.C.\n\nThe 48 contiguous states border Canada to the north and Mexico to the south, with the semi-exclave of Alaska in the northwest and the archipelago of Hawaii in the Pacific Ocean. The United States also asserts sovereignty over five major island territories and various uninhabited islands in Oceania and the Caribbean.[k] It is a megadiverse country, with the world's fourth-largest land area[l] and third-largest population, exceeding 341 million.[m]\n\nPaleo-Indians migrated from North Asia to North America around 15,000 years ago and formed various civilizations. Beginning with the 1607 settlement of Virginia, British colonization established the Thirteen Colonies.\n\nThe American Enlightenment, spread throughout the colonies in the 18th century, valued republicanism and liberalism. Clashes with the British Crown over taxation without parliamentary representation, among other denied English rights, sparked the American Revolution, which led to the July 2, 1776, Lee Resolution formally declaring independence from Great Britain.\n\nTwo days later, the Declaration of Independence was adopted. Victory in the 1775–1783 Revolutionary War brought international recognition of U.S. sovereignty.\n\nThe U.S. expanded westward through purchase, settlement and conquest of European- and Indigenous-controlled territory. As more states joined the Union, a sectional division over slavery led 11 Southern states to secede and form the Confederate States of America, fighting the Union in the Civil War of 1861–1865.\n\nWith the United States' victory and reunification, slavery was abolished. By 1900, the U.S. emerged as a great power, a status solidified after its involvement in World War I.\n\nFollowing Japan's attack on Pearl Harbor in 1941, it entered World War II on the Allied side. The war's aftermath left the U.S. and the Soviet Union as rival superpowers, vying for geopolitical dominance during the Cold War.\n\nThe Soviet Union's collapse in 1991 left the U.S. as the world's sole superpower.",
+        "id": 12
     }
 ]

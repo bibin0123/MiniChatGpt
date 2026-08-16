@@ -78,3 +78,313 @@ git commit -m "message": Saves the staged snapshot to project history.
 git commit -am "message": Stages tracked files and commits them in one step.
 ------------------------------------------------------------
 
+Title : Create The Gitignore Filenavigate
+Category : Tkinter
+Keywords : create, gitignore, filenavigate
+Tags : Windows, Git, JSON
+
+1. Create the .gitignore FileNavigate to your project's root folder in your terminal and create the file:Mac / Linux / Git Bash: touch .gitignoreWindows Command Prompt: type nul > .gitignoreAlternatively, create it manually via your code editor.2. Add Rules and PatternsOpen the file in a text editor and add the rules. Put every rule on a new line:Ignore a specific file: secret.jsonIgnore a whole folder: node_modules/Ignore all files of a specific type: *.log (uses a wildcard)Add an exception: !important.log (use an exclamation mark)Add comments: # This is a comment (use a hash symbol)Example file structure:text# Ignore local environment variables
+
+**.env**
+
+**Ignore dependency folders**
+
+**node_modules/**
+
+**venv/**
+
+**Ignore IDE specific setups**
+
+**.vscode/**
+
+**.DS_Store**
+
+**Ignore all logs except the production one**
+
+***.log**
+
+**!prod.log**
+
+Use code with caution.3. Save and Commit the FileThe .gitignore file itself must be tracked so everyone working on the project shares the same rules. Run these commands:bashgit add .gitignore
+
+git commit -m "Add gitignore to exclude temporary files"
+
+Use code with caution.
+------------------------------------------------------------
+
+Title : Cabinet Ministers kerala
+Category : General
+Keywords : key, cabinet, ministers
+
+Key Cabinet Ministers & PortfoliosV. D. Satheesan: Chief Minister (also handles general administration and policy matters)Ramesh Chennithala: Minister for Home, Vigilance, Fire and Rescue Services, Prisons, and CoirSunny Joseph: Minister for Electricity, Environment, Parliamentary Affairs, and ANERTK. Muraleedharan: Minister for Health, Medical Education, Ayush, Food Safety, and DevaswomsV. E. Abdul Gafoor: Minister for Fisheries, Harbour Engineering, and Social JusticeMons Joseph: Minister for Irrigation, Ground Water, and Water Supply & SanitationAnoop Jacob: Minister for Food & Civil Supplies, Consumer Affairs, and Legal MetrologyShibu Baby John: Minister for Forests & Wildlife Protection, and Skill Development
+------------------------------------------------------------
+
+Title : Key Cabinet Ministers Portfoliosv. D. Satheesan:
+Category : General
+Keywords : key, cabinet, ministers, portfoliosv, satheesan
+
+Key Cabinet Ministers & PortfoliosV. D. Satheesan: Chief Minister (also handles general administration and policy matters)Ramesh Chennithala: Minister for Home, Vigilance, Fire and Rescue Services, Prisons, and CoirSunny Joseph: Minister for Electricity, Environment, Parliamentary Affairs, and ANERTK. Muraleedharan: Minister for Health, Medical Education, Ayush, Food Safety, and DevaswomsV. E. Abdul Gafoor: Minister for Fisheries, Harbour Engineering, and Social JusticeMons Joseph: Minister for Irrigation, Ground Water, and Water Supply & SanitationAnoop Jacob: Minister for Food & Civil Supplies, Consumer Affairs, and Legal MetrologyShibu Baby John: Minister for Forests & Wildlife Protection, and Skill Development
+------------------------------------------------------------
+
+Title : United States
+Category : General
+Keywords : united, states, article, talk, read
+Tags : API
+
+**United States**
+
+**Article**
+
+**Talk**
+
+**Read**
+
+**View source**
+
+**View history**
+
+**Appearance hide**
+
+**Text**
+
+**Small**
+
+**Standard**
+
+**Large**
+
+**Width**
+
+**Wide**
+
+**Color**
+
+**Automatic**
+
+**Light**
+
+**Dark**
+
+**Coordinates: 40°N 100°W**
+
+**Extended-protected article**
+
+**From Wikipedia, the free encyclopedia**
+
+Several terms redirect here. For other uses, see United States (disambiguation), America (disambiguation), US (disambiguation), USA (disambiguation), The United States of America (disambiguation), and The States (disambiguation).
+
+**United States of America**
+
+**Flag**
+
+**Coat of arms**
+
+**Motto: "In God We Trust"[1]**
+
+**Other traditional mottos:[2]**
+
+**Anthem: "The Star-Spangled Banner"[3]**
+
+**Duration: 1 minute and 19 seconds.1:19**
+
+Orthographic map of the U.S. in North America
+
+**Show globe (states and D.C. only)**
+
+Show the U.S., its territories, and the Compacts of Free Association states
+
+Show territories with boundaries of U.S. exclusive economic zone
+
+**Show all**
+
+**Capital	Washington, D.C.[a]**
+
+**38°53′N 77°1′W**
+
+**Largest city	New York City[b]**
+
+**40°43′N 74°0′W**
+
+**Official languages	English[c]**
+
+**Ethnic groups (2020)[8][9][10]**
+
+**By race:**
+
+**6% White**
+
+**4% Black**
+
+**6% Asian**
+
+1.1% Native American
+
+**2% Pacific Islander**
+
+**2% two or more races**
+
+**4% other**
+
+**By origin:**
+
+**3% non-Hispanic or Latino**
+
+**7% Hispanic or Latino**
+
+**Religion (2025)[11]**
+
+**65% Christianity**
+
+**32% Protestantism**
+
+**20% Catholicism**
+
+**12% other Christian**
+
+**1% Mormonism**
+
+**24% unaffiliated**
+
+**2% Judaism**
+
+**6% other religion**
+
+**3% unanswered**
+
+**Demonym	American[12][d]**
+
+**Government	Federal presidential republic**
+
+**• President**
+
+**Donald Trump**
+
+**• Vice President**
+
+**JD Vance**
+
+**• House Speaker**
+
+**Mike Johnson**
+
+**• Chief Justice**
+
+**John Roberts**
+
+**Legislature	Congress**
+
+**• Upper house**
+
+**Senate**
+
+**• Lower house**
+
+**House of Representatives**
+
+**Independence from Great Britain**
+
+**• Declaration**
+
+July 4, 1776;
+
+**years ago**
+
+**• Confederation**
+
+**March 1, 1781**
+
+**• Recognition**
+
+**September 3, 1783**
+
+**• Constitution**
+
+**March 4, 1789**
+
+**Area**
+
+**• Total area**
+
+**3,796,742 sq mi (9,833,520 km2)[13][e] (3rd)**
+
+**• Water (%)**
+
+**0[16] (2010)**
+
+**• Land area**
+
+**3,531,905 sq mi (9,147,590 km2) (3rd)**
+
+**Population**
+
+**• 2025 estimate**
+
+**Neutral increase 341,784,857[17]**
+
+**• 2020 census**
+
+**Neutral increase 331,449,281[18][f] (3rd)**
+
+**• Density**
+
+**8/sq mi (37.4/km2) (180th)**
+
+**GDP (PPP)	2026 estimate**
+
+**• Total**
+
+**Increase $32.384 trillion[19][g] (2nd)**
+
+**• Per capita**
+
+**Increase $94,430[19] (10th)**
+
+**GDP (nominal)	2026 estimate**
+
+**Increase $32.384 trillion[19] (1st)**
+
+**Increase $94,430[19] (8th)**
+
+**Gini (2024)	Negative increase 41.8[20][h]**
+
+**medium inequality**
+
+**HDI (2023)	Increase 0.938[21]**
+
+**very high (17th)**
+
+**Currency	U.S. dollar ($) (USD)**
+
+**Time zone	UTC−4 to −12, +10, +11**
+
+**• Summer (DST)**
+
+**UTC−4 to −10[i]**
+
+**Date format	mm/dd/yyyy[j]**
+
+**Calling code	+1**
+
+**ISO 3166 code	US**
+
+**Internet TLD	.us[22]**
+
+The United States of America (USA), also known as the United States (U.S.) or America, is a country primarily located in North America. It is a federal republic consisting of 50 states and a federal capital district, Washington, D.C.
+
+The 48 contiguous states border Canada to the north and Mexico to the south, with the semi-exclave of Alaska in the northwest and the archipelago of Hawaii in the Pacific Ocean. The United States also asserts sovereignty over five major island territories and various uninhabited islands in Oceania and the Caribbean.[k] It is a megadiverse country, with the world's fourth-largest land area[l] and third-largest population, exceeding 341 million.[m]
+
+Paleo-Indians migrated from North Asia to North America around 15,000 years ago and formed various civilizations. Beginning with the 1607 settlement of Virginia, British colonization established the Thirteen Colonies.
+
+The American Enlightenment, spread throughout the colonies in the 18th century, valued republicanism and liberalism. Clashes with the British Crown over taxation without parliamentary representation, among other denied English rights, sparked the American Revolution, which led to the July 2, 1776, Lee Resolution formally declaring independence from Great Britain.
+
+Two days later, the Declaration of Independence was adopted. Victory in the 1775–1783 Revolutionary War brought international recognition of U.S. sovereignty.
+
+The U.S. expanded westward through purchase, settlement and conquest of European- and Indigenous-controlled territory. As more states joined the Union, a sectional division over slavery led 11 Southern states to secede and form the Confederate States of America, fighting the Union in the Civil War of 1861–1865.
+
+With the United States' victory and reunification, slavery was abolished. By 1900, the U.S. emerged as a great power, a status solidified after its involvement in World War I.
+
+Following Japan's attack on Pearl Harbor in 1941, it entered World War II on the Allied side. The war's aftermath left the U.S. and the Soviet Union as rival superpowers, vying for geopolitical dominance during the Cold War.
+
+The Soviet Union's collapse in 1991 left the U.S. as the world's sole superpower.
+------------------------------------------------------------
+

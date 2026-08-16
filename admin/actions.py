@@ -231,6 +231,9 @@ class AdminActions:
         if parsed.get("title"):
             self.form.title_var.set(parsed["title"])
 
+        if parsed.get("category"):
+            self.form.category_var.set(parsed["category"])
+
         if parsed.get("keywords"):
             self.form.keyword_var.set(", ".join(parsed["keywords"]))
 
